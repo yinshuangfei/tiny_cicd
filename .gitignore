@@ -1,5 +1,8 @@
 .codex
 dist/
+build/
+logs/
+.ci-state/
 __pycache__/
 *.pyc
 .venv/
